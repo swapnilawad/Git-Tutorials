@@ -1,0 +1,7 @@
+git config --global user.name "name"
+git config --global user.email "mail"
+git status 
+git int
+git add .
+git commmit 
+git log 
