@@ -5,3 +5,7 @@ git int
 git add .
 git commmit 
 git log 
+git remote add origin _________________
+git push -u origin master
+git pull origin master 
+
