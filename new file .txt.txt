@@ -1,5 +1,0 @@
-version 1 
-
-for  checkout operation 
-commads :
-git --staged ___________ (file name)
